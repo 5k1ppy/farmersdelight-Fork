@@ -4,6 +4,10 @@
 
 ![fd-logo](https://imgur.com/mb6WGvE.png)
 
+## NOTE
+
+This mod has been forked by me (Skippy#7704 on Discord). I have made a few changed to the mod such as adding more foods and such. Thats all that has changed so far. Enjoy!
+
 ### Overview
 
 Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft.
