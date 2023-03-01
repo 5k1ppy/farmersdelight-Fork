@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "farmersdelight:uncooked_potato_chips"
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knives"
+  }
+}
