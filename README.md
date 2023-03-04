@@ -16,7 +16,7 @@ This mod focuses on giving more purpose to items often forgotten or overlooked b
 
 ### Fabric port
 
-This is the fabric port repository of Farmer's Delight. It is mainly maintained by Zifiv, all issues found in the port should be reported in the repository issue tracker, you can create a new issue [here](https://github.com/5k1ppy/farmersdelight-Fork/issues/new) (you should have a Github account).
+This is the fabric port repository of Farmer's Delight. It is mainly maintained by Skippy, all issues found in the port should be reported in the repository issue tracker, you can create a new issue [here](https://github.com/5k1ppy/farmersdelight-Fork/issues/new) (you should have a Github account).
 
 ### Contributing fabric to the port
 
